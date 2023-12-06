@@ -1,0 +1,14 @@
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.AssemblyInfoInputs.cache
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.AssemblyInfo.cs
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.csproj.CoreCompileInputs.cache
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\bin\Debug\net7.0\SoftwareDev_Week1.exe
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\bin\Debug\net7.0\SoftwareDev_Week1.deps.json
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\bin\Debug\net7.0\SoftwareDev_Week1.runtimeconfig.json
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\bin\Debug\net7.0\SoftwareDev_Week1.dll
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\bin\Debug\net7.0\SoftwareDev_Week1.pdb
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.dll
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\refint\SoftwareDev_Week1.dll
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.pdb
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\SoftwareDev_Week1.genruntimeconfig.cache
+C:\Users\Riffa\source\Projects\IC\riffat-week1\SoftwareDev_Week1\obj\Debug\net7.0\ref\SoftwareDev_Week1.dll
